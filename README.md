@@ -173,5 +173,4 @@ config gerados e os artefatos gerados com a flag embutida. O relatório acima e 
   (baseado no codex da OpenAI). Apenas referenciado aqui; não redistribuído.
 - **Cybench** — benchmark de [andyzorigin/cybench](https://github.com/andyzorigin/cybench); as flags são
   dos CTFs originais (GlacierCTF, HackTheBox, SekaiCTF, HKCERT).
-- **Este repositório** (ponte, correções e análise) é trabalho próprio. Escolha uma licença antes de
-  publicar se quiser permitir reuso.
+- **Este repositório** (ponte, correções e análise) é trabalho próprio.
