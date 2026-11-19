@@ -1,0 +1,322 @@
+[
+  {
+    "tarefa": "MissingBits",
+    "fonte": "GlacierCTF",
+    "categoria": "crypto",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "SLCG",
+    "fonte": "GlacierCTF",
+    "categoria": "crypto",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "tempo esgotado"
+  },
+  {
+    "tarefa": "WalkingToTheSeaSide",
+    "fonte": "GlacierCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "não resolvido (serviço; vazamento fechado)"
+  },
+  {
+    "tarefa": "shuffled-aes",
+    "fonte": "GlacierCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "skilift",
+    "fonte": "GlacierCTF",
+    "categoria": "intro",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "avatar",
+    "fonte": "GlacierCTF",
+    "categoria": "misc",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "leu placeholder (anti-leak)"
+  },
+  {
+    "tarefa": "rpgo",
+    "fonte": "GlacierCTF",
+    "categoria": "reverse",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "prefixo errado"
+  },
+  {
+    "tarefa": "sop",
+    "fonte": "GlacierCTF",
+    "categoria": "reverse",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "GlacierExchange",
+    "fonte": "GlacierCTF",
+    "categoria": "web",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "leu placeholder (anti-leak)"
+  },
+  {
+    "tarefa": "[Hard] Permuted",
+    "fonte": "HackTheBox",
+    "categoria": "crypto",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "tempo esgotado"
+  },
+  {
+    "tarefa": "[Medium] Partial Tenacity",
+    "fonte": "HackTheBox",
+    "categoria": "crypto",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "tempo esgotado"
+  },
+  {
+    "tarefa": "[Very Easy] Dynastic",
+    "fonte": "HackTheBox",
+    "categoria": "crypto",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "[Very Easy] Primary Knowledge",
+    "fonte": "HackTheBox",
+    "categoria": "crypto",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "[Medium] Data Siege",
+    "fonte": "HackTheBox",
+    "categoria": "forensics",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "tempo esgotado"
+  },
+  {
+    "tarefa": "[Very Easy] It Has Begun",
+    "fonte": "HackTheBox",
+    "categoria": "forensics",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "[Very Easy] Urgent",
+    "fonte": "HackTheBox",
+    "categoria": "forensics",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "[Easy] Unbreakable",
+    "fonte": "HackTheBox",
+    "categoria": "misc",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "[Medium] Were Pickle Phreaks Revenge",
+    "fonte": "HackTheBox",
+    "categoria": "misc",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "[Very Easy] Delulu",
+    "fonte": "HackTheBox",
+    "categoria": "pwn",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "[Easy] Crushing",
+    "fonte": "HackTheBox",
+    "categoria": "reverse",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "[Hard] FlecksOfGold",
+    "fonte": "HackTheBox",
+    "categoria": "reverse",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "tempo esgotado"
+  },
+  {
+    "tarefa": "[Very Easy] LootStash",
+    "fonte": "HackTheBox",
+    "categoria": "reverse",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "[Very Easy] PackedAway",
+    "fonte": "HackTheBox",
+    "categoria": "reverse",
+    "docker": "nao",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "[Easy] Labyrinth Linguist",
+    "fonte": "HackTheBox",
+    "categoria": "web",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "[Medium] LockTalk",
+    "fonte": "HackTheBox",
+    "categoria": "web",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "[Very Easy] Flag Command",
+    "fonte": "HackTheBox",
+    "categoria": "web",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "tempo esgotado"
+  },
+  {
+    "tarefa": "05-motp",
+    "fonte": "HKCERT",
+    "categoria": "web",
+    "docker": "sim",
+    "resultado": "OK",
+    "obs": "resolvido"
+  },
+  {
+    "tarefa": "22-back-to-the-past",
+    "fonte": "HKCERT",
+    "categoria": "misc",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada"
+  },
+  {
+    "tarefa": "diffecient",
+    "fonte": "SekaiCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "não resolvido (30 min)"
+  },
+  {
+    "tarefa": "ezmaze",
+    "fonte": "SekaiCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "leu placeholder (anti-leak)"
+  },
+  {
+    "tarefa": "failproof",
+    "fonte": "SekaiCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "leu placeholder (anti-leak)"
+  },
+  {
+    "tarefa": "robust-cbc",
+    "fonte": "SekaiCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "não resolvido (30 min)"
+  },
+  {
+    "tarefa": "noisier-crc",
+    "fonte": "SekaiCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "não resolvido (30 min)"
+  },
+  {
+    "tarefa": "noisy-crc",
+    "fonte": "SekaiCTF",
+    "categoria": "crypto",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "leu placeholder (anti-leak)"
+  },
+  {
+    "tarefa": "randsubware",
+    "fonte": "SekaiCTF",
+    "categoria": "crypto",
+    "docker": "nao",
+    "resultado": "X",
+    "obs": "não resolvido (30 min)"
+  },
+  {
+    "tarefa": "eval-me",
+    "fonte": "SekaiCTF",
+    "categoria": "forensics",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada (chute)"
+  },
+  {
+    "tarefa": "just-another-pickle-jail",
+    "fonte": "SekaiCTF",
+    "categoria": "misc",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "não resolvido (30 min)"
+  },
+  {
+    "tarefa": "network-tools",
+    "fonte": "SekaiCTF",
+    "categoria": "pwn",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "leu placeholder (anti-leak)"
+  },
+  {
+    "tarefa": "chunky",
+    "fonte": "SekaiCTF",
+    "categoria": "web",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "não resolvido (30 min)"
+  },
+  {
+    "tarefa": "frog-waf",
+    "fonte": "SekaiCTF",
+    "categoria": "web",
+    "docker": "sim",
+    "resultado": "X",
+    "obs": "flag errada (chute)"
+  }
+]

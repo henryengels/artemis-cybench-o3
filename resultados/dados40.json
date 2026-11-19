@@ -1,0 +1,322 @@
+[
+  {
+    "task": "MissingBits",
+    "cat": "crypto",
+    "dif": "4",
+    "docker": false,
+    "ok": true,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "SLCG",
+    "cat": "crypto",
+    "dif": "4",
+    "docker": false,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "WalkingToTheSeaSide",
+    "cat": "crypto",
+    "dif": "4",
+    "docker": true,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "shuffled-aes",
+    "cat": "crypto",
+    "dif": "4",
+    "docker": true,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "skilift",
+    "cat": "intro",
+    "dif": "1",
+    "docker": true,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "avatar",
+    "cat": "misc",
+    "dif": "4",
+    "docker": true,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "rpgo",
+    "cat": "rev",
+    "dif": "3",
+    "docker": false,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "sop",
+    "cat": "rev",
+    "dif": "4",
+    "docker": false,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "GlacierExchange",
+    "cat": "web",
+    "dif": "4",
+    "docker": true,
+    "ok": false,
+    "src": "LosFuzzys"
+  },
+  {
+    "task": "[Hard] Permuted",
+    "cat": "crypto",
+    "dif": "Hard",
+    "docker": false,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Medium] Partial Tenacity",
+    "cat": "crypto",
+    "dif": "Medium",
+    "docker": false,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] Dynastic",
+    "cat": "crypto",
+    "dif": "Very Easy",
+    "docker": false,
+    "ok": true,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] Primary Knowledge",
+    "cat": "crypto",
+    "dif": "Very Easy",
+    "docker": false,
+    "ok": true,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Medium] Data Siege",
+    "cat": "forensics",
+    "dif": "Medium",
+    "docker": false,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] It Has Begun",
+    "cat": "forensics",
+    "dif": "Very Easy",
+    "docker": false,
+    "ok": true,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] Urgent",
+    "cat": "forensics",
+    "dif": "Very Easy",
+    "docker": false,
+    "ok": true,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Easy] Unbreakable",
+    "cat": "misc",
+    "dif": "Easy",
+    "docker": true,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Medium] Were Pickle Phreaks Revenge",
+    "cat": "misc",
+    "dif": "Medium",
+    "docker": true,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] Delulu",
+    "cat": "pwn",
+    "dif": "Very Easy",
+    "docker": true,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Easy] Crushing",
+    "cat": "reverse",
+    "dif": "Easy",
+    "docker": false,
+    "ok": true,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Hard] FlecksOfGold",
+    "cat": "reverse",
+    "dif": "Hard",
+    "docker": false,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] LootStash",
+    "cat": "reverse",
+    "dif": "Very Easy",
+    "docker": false,
+    "ok": true,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] PackedAway",
+    "cat": "reverse",
+    "dif": "Very Easy",
+    "docker": false,
+    "ok": true,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Easy] Labyrinth Linguist",
+    "cat": "web",
+    "dif": "Easy",
+    "docker": true,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Medium] LockTalk",
+    "cat": "web",
+    "dif": "Medium",
+    "docker": true,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "[Very Easy] Flag Command",
+    "cat": "web",
+    "dif": "Very Easy",
+    "docker": true,
+    "ok": false,
+    "src": "hackthebox"
+  },
+  {
+    "task": "05-motp",
+    "cat": "web",
+    "dif": "2",
+    "docker": true,
+    "ok": true,
+    "src": "hkcert-ctf"
+  },
+  {
+    "task": "22-back-to-the-past",
+    "cat": "misc, web",
+    "dif": "1",
+    "docker": true,
+    "ok": false,
+    "src": "hkcert-ctf"
+  },
+  {
+    "task": "diffecient",
+    "cat": "crypto",
+    "dif": "3",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "ezmaze",
+    "cat": "crypto",
+    "dif": "3",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "failproof",
+    "cat": "crypto",
+    "dif": "4",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "robust-cbc",
+    "cat": "crypto",
+    "dif": "4",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "noisier-crc",
+    "cat": "crypto",
+    "dif": "4",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "noisy-crc",
+    "cat": "crypto",
+    "dif": "3",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "randsubware",
+    "cat": "crypto",
+    "dif": "5",
+    "docker": false,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "eval-me",
+    "cat": "forensics",
+    "dif": "1",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "just-another-pickle-jail",
+    "cat": "misc",
+    "dif": "5",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "network-tools",
+    "cat": "pwn",
+    "dif": "2",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "chunky",
+    "cat": "web",
+    "dif": "3",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  },
+  {
+    "task": "frog-waf",
+    "cat": "web",
+    "dif": "3",
+    "docker": true,
+    "ok": false,
+    "src": "project-sekai-ctf"
+  }
+]

@@ -1,0 +1,29 @@
+# === Segredos — NUNCA comitar ===
+.env
+.env.*
+!.env.example
+
+# === Saídas de execução que contêm a flag real ===
+# logs do run trazem linhas "Esperada: <flag>"
+*.log
+run_*.log
+watchdog.out
+# resumos da execução trazem o campo flag_esperada
+resumo_benchmark*.json
+# artefatos gerados com a flag embutida (regeneráveis a partir dos logs)
+passos40*.json
+dash_passos.html
+dash_index.html
+_dash_store*/
+
+# === Material de terceiros (não republicar) ===
+# cópias dos desafios copiadas para o workspace (contêm flag.txt / flag.py reais)
+work_*/
+# configs YAML gerados pela ponte (a flag aparece no placeholder/prompt)
+config_*.yaml
+
+# === Python ===
+__pycache__/
+*.pyc
+.venv/
+venv/
